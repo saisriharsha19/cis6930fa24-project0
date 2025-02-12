@@ -1,10 +1,10 @@
-# cis6930fa24-project0
+# Incident Data Extraction and Database Processor
 
 # README
 
 # Name: Sai Sri Harsha Guddati
-## Assignment Description
-This project involves downloading, extracting, and processing incident data from a PDF available online. The incident data is extracted and processed, and stored in an SQLite database. Additionally, the assignment involves displaying a statistical summary of the incident types.
+## Project Description
+This project involves downloading, extracting, and processing incident data from a PDF available online. The incident data is extracted and processed, and stored in an SQLite database. Additionally, I'm also displaying a statistical summary of the incident types.
 
 1. Fetching PDF: Download a PDF file containing incident summaries from the given URL.
 2. Extracting Incidents: Extract key information from the PDF, including date, incident number, location, nature of the incident, and the ORI.
